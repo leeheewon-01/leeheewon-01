@@ -1,4 +1,4 @@
-### Hi there 👋
+### AI Scientist
 
 <!--
 **leeheewon-01/leeheewon-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
