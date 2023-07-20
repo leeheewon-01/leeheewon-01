@@ -1,4 +1,4 @@
-### AI Scientist
+### AI Engineer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeheewon-01&show_icons=true&theme=dark)
 
