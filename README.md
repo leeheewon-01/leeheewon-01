@@ -1,14 +1,14 @@
 # Heewon Lee
 
-**Deep Learning Research Engineer** focused on **LLM post-training and model compression** and **3D radar perception**.
+**Deep Learning Engineer** working on **LLM training** and **3D radar perception**.
 
-I build and rigorously evaluate deep-learning pipelines under data and compute constraints—from data preparation and model training to controlled comparison and evidence-backed model selection.
+I care about generalization, experimental judgment, and moving useful ideas across domains.
 
 ## Focus
 
-- **LLM post-training:** 4-bit QLoRA, hard pseudo-labeling, DeepSpeed ZeRO Stage 2, and quantization experiments
-- **3D radar perception:** automotive radar data preparation, object-detection training, and point-cloud preprocessing
-- **Rigorous evaluation:** cross-backbone and multi-seed experiments, validation design, and reproducible model comparison
+- **LLM training:** fine-tuning, hard pseudo-labeling, quantization, and multi-GPU training
+- **3D radar perception:** point-cloud preprocessing, classification, and object detection
+- **Experimental judgment:** validation design, model selection, and cross-domain transfer
 
 ## Selected work
 
