@@ -12,7 +12,7 @@ I build and rigorously evaluate deep-learning pipelines under data and compute c
 
 ## Selected work
 
-- [**YOLOstratifiedKFold**](https://github.com/leeheewon-01/YOLOstratifiedKFold) — Open-source Python implementation of class-distribution-preserving folds for object-detection datasets
+- [**YOLOstratifiedKFold**](https://github.com/leeheewon-01/YOLOstratifiedKFold) — Public Python implementation of class-distribution-preserving folds for object-detection datasets
 - [**Improving the Performance of Object Detection by Preserving Balanced Class Distribution**](https://doi.org/10.3390/math11214460) — First-author journal paper in *Mathematics*
 - [**Efficient Point-Cloud Preprocessing for 3D Radar Classification**](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12895106) — Conference-proceedings paper on IF∩LOF preprocessing for radar point clouds
 - [**Kaggle competition profile**](https://www.kaggle.com/leeheewon01) — Includes a Bronze Medal in LMSYS Chatbot Arena Human Preference Predictions (133rd of 1,849 teams)
